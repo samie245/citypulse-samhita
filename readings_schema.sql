@@ -1,0 +1,1 @@
+CREATE TABLE readings (id INTEGER PRIMARY KEY, location TEXT, aqi INTEGER);
